@@ -36,3 +36,5 @@ Não são necessárias dependências externas para rodar o projeto. Todo o funci
 
 Observações
 As imagens de produtos são ilustrativas (placeholders).
+
+[rubricaDFE.docx.pdf](https://github.com/user-attachments/files/23515034/rubricaDFE.docx.pdf)
